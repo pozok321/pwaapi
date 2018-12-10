@@ -1,6 +1,6 @@
 {
-"products":
-[{"id":1,"name":"Ara macao","category":"Violet"},
+"products": [
+ {"id":1,"name":"Ara macao","category":"Violet"},
 {"id":2,"name":"Kobus leche robertsi","category":"Turquoise"},
 {"id":3,"name":"Buteo jamaicensis","category":"Crimson"},
 {"id":4,"name":"Aonyx capensis","category":"Mauv"},
@@ -19,5 +19,6 @@
 {"id":17,"name":"Cordylus giganteus","category":"Goldenrod"},
 {"id":18,"name":"Varanus sp.","category":"Orange"},
 {"id":19,"name":"Mellivora capensis","category":"Violet"},
-{"id":20,"name":"Anastomus oscitans","category":"Pink"}]
+{"id":20,"name":"Anastomus oscitans","category":"Pink"}
+]
 }

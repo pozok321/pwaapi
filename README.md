@@ -1,7 +1,7 @@
 # pwaapi
 
 {
-"products" 
+"products";
 [{"id":1,"name":"Ara macao","category":"Violet"},
 {"id":2,"name":"Kobus leche robertsi","category":"Turquoise"},
 {"id":3,"name":"Buteo jamaicensis","category":"Crimson"},
